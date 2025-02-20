@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<English below>
+_English below_
 
 _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm hiểu và ứng dụng xây dựng các phần mềm AI. Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning” dành cho người mới. Hy vọng sau khi lướt qua hết chuỗi bài này, các bạn sẽ tự xây được những viên gạch đầu tiên trên con đường học và ứng dụng dữ liệu vào công việc, cuộc sống_
 <br><br>
