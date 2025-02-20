@@ -14,7 +14,7 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 5.	Backpropagation – Học ngược để tiến về phía trước (giải thích dễ hiểu về thuật toán lan truyền ngược).
 6.	Tensor là gì? Tại sao lại quan trọng trong Deep Learning?
 7.	Bài test nhanh: Bạn hiểu đúng về Deep Learning chưa?
-</br>
+
 
 **Tuần 2: Xây nền móng vững chắc**
 8.	Gradient Descent – Bí mật đằng sau việc tối ưu mô hình.
