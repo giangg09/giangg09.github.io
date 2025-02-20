@@ -48,41 +48,43 @@ _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm
 29.	Lời khuyên cho người mới: Cách học Deep Learning không nản.
 30.	Tổng kết hành trình 30 ngày – Bạn đã "xóa mù" đến đâu?
 
-
-Here’s 30-day article on "Demystifying Deep Learning" :
 <br><br>
+_Here’s 30-day article on "Demystifying Deep Learning" :_
+<br>
 **Week 1: Understanding What Deep Learning Is**<br>
-Why is Deep Learning so hot? – An introduction to DL and its real-world applications.
-Machine Learning vs. Deep Learning – Friends or rivals?
-Do Neural Networks mimic the human brain? – A beginner-friendly explanation.
-Perceptron – The building block of Neural Networks.
-Backpropagation – Learning by going backward to move forward.
-What are Tensors, and why are they essential in Deep Learning?
-Quick quiz: Do you really understand Deep Learning?<br><br>
+1.	Why is Deep Learning so hot? – An introduction to DL and its real-world applications.
+2.	Machine Learning vs. Deep Learning – Friends or rivals?
+3.	Do Neural Networks mimic the human brain? – A beginner-friendly explanation.
+4.	Perceptron – The building block of Neural Networks.
+5.	Backpropagation – Learning by going backward to move forward.
+6.	What are Tensors, and why are they essential in Deep Learning?
+7.	Quick quiz: Do you really understand Deep Learning?
+<br><br>
 **Week 2: Building a Strong Foundation**<br>
-Gradient Descent – The secret behind optimizing models.
-Activation Functions – Why do neurons need to "turn on/off"?
-Loss Functions – Measuring errors in Deep Learning models.
-Batch Size, Epochs, Learning Rate – The powerful trio.
-Overfitting vs. Underfitting – A common trap for DL beginners.
-Regularization – Reducing overfitting with Dropout, L1, and L2.
-Optimizers – Adam, SGD, RMSprop: Which one is better?<br><br>
+8.	Gradient Descent – The secret behind optimizing models.
+9.	Activation Functions – Why do neurons need to "turn on/off"?
+10.	Loss Functions – Measuring errors in Deep Learning models.
+11.	Batch Size, Epochs, Learning Rate – The powerful trio.
+12.	Overfitting vs. Underfitting – A common trap for DL beginners.
+13.	Regularization – Reducing overfitting with Dropout, L1, and L2.
+14.	Optimizers – Adam, SGD, RMSprop: Which one is better?
+<br><br>
 **Week 3: Hands-on Deep Learning**<br>
-CNN – How does Deep Learning "see" images?
-RNN & LSTM – How does DL understand text and audio?
-Transformers – The intelligence behind ChatGPT.
-Step-by-step guide: Building your first Deep Learning model with Keras/TensorFlow.
-Data Augmentation – The trick to generating more training data.
-Beyond memory: How does Deep Learning truly understand? (Attention Mechanism).
-Lessons learned: Mistakes I made when learning Deep Learning.<br><br>
+15.	CNN – How does Deep Learning "see" images?
+16.	RNN & LSTM – How does DL understand text and audio?
+17.	Transformers – The intelligence behind ChatGPT.
+18.	Step-by-step guide: Building your first Deep Learning model with Keras/TensorFlow.
+19.	Data Augmentation – The trick to generating more training data.
+20.	Beyond memory: How does Deep Learning truly understand? (Attention Mechanism).
+21.	Lessons learned: Mistakes I made when learning Deep Learning.
+<br><br>
 **Week 4: Applications & Future of Deep Learning**<br>
-Deep Learning in finance and banking – Real-world use cases.
-DL in healthcare – Can AI diagnose diseases better than doctors?
-AI-generated art & music – When DL meets creativity.
-GPT & DALL-E – AI that writes and draws.
-The future of Deep Learning – Are there any limits?
-How to start a career in Deep Learning?
-Top 5 free resources to learn Deep Learning effectively.
-Advice for beginners: How to learn Deep Learning without getting overwhelmed.
-Wrapping up the 30-day journey – How much have you demystified DL?
-
+22.	Deep Learning in finance and banking – Real-world use cases.
+23.	DL in healthcare – Can AI diagnose diseases better than doctors?
+24.	AI-generated art & music – When DL meets creativity.
+25.	GPT & DALL-E – AI that writes and draws.
+26.	The future of Deep Learning – Are there any limits?
+27.	How to start a career in Deep Learning?
+28.	Top 5 free resources to learn Deep Learning effectively.
+29.	Advice for beginners: How to learn Deep Learning without getting overwhelmed.
+30.	Wrapping up the 30-day journey – How much have you demystified DL?
