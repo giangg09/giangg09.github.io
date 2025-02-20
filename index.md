@@ -4,19 +4,20 @@ layout: default
 
 
 _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning” dành cho người mới:_
-</br>
+<br><br>
 
 **Tuần 1: Hiểu về Deep Learning là gì?**
-1.	[Deep Learning có gì hot? – Giới thiệu tổng quan về DL, ứng dụng trong đời sống.](./another-page.html) </br>
+<br>
+1.	[Deep Learning có gì hot? – Giới thiệu tổng quan về DL, ứng dụng trong đời sống.](./another-page.html) <br>
 2.	Machine Learning vs. Deep Learning – Anh em hay đối thủ?
 3.	Mạng Neural có phải bắt chước não người? – Giải thích trực quan về Neural Network.
 4.	Perceptron – Viên gạch đầu tiên của mạng neuron.
 5.	Backpropagation – Học ngược để tiến về phía trước (giải thích dễ hiểu về thuật toán lan truyền ngược).
 6.	Tensor là gì? Tại sao lại quan trọng trong Deep Learning?
 7.	Bài test nhanh: Bạn hiểu đúng về Deep Learning chưa?
+<br><br>
 
-
-**Tuần 2: Xây nền móng vững chắc**
+**Tuần 2: Xây nền móng vững chắc**<br>
 8.	Gradient Descent – Bí mật đằng sau việc tối ưu mô hình.
 9.	Activation Function – Vì sao mạng neuron cần "bật/tắt"?
 10.	Loss Function – Đo lường sai số trong mô hình DL.
@@ -24,9 +25,9 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 12.	Overfitting vs. Underfitting – Cái bẫy của người mới học DL.
 13.	Regularization – Giảm overfitting bằng dropout, L1, L2.
 14.	Optimizers – Adam, SGD, RMSprop ai mạnh hơn?
-</br>
+<br><br>
 
-**Tuần 3: Trải nghiệm thực tế với Deep Learning**
+**Tuần 3: Trải nghiệm thực tế với Deep Learning**<br>
 15.	CNN – Deep Learning nhìn thấy gì trong ảnh?
 16.	RNN & LSTM – Làm sao DL có thể hiểu văn bản, âm thanh?
 17.	Transformer – Trí tuệ đứng sau ChatGPT.
@@ -34,9 +35,9 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 19.	Data Augmentation – Bí kíp để làm dữ liệu "ảo".
 20.	Làm sao để DL không chỉ nhớ mà còn hiểu? (Attention Mechanism).
 21.	Chuyện nghề: Những sai lầm mình từng mắc khi học Deep Learning.
-</br>
+<br><br>
 
-**Tuần 4: Ứng dụng & Xu hướng tương lai**
+**Tuần 4: Ứng dụng & Xu hướng tương lai**<br>
 22.	Ứng dụng Deep Learning trong ngành tài chính, ngân hàng.
 23.	Deep Learning trong Y tế – Chẩn đoán bệnh có chính xác hơn bác sĩ?
 24.	Tạo ảnh, tạo nhạc bằng AI – Khi DL bước vào nghệ thuật.
