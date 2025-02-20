@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<English below>
 
 _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm hiểu và ứng dụng xây dựng các phần mềm AI. Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning” dành cho người mới. Hy vọng sau khi lướt qua hết chuỗi bài này, các bạn sẽ tự xây được những viên gạch đầu tiên trên con đường học và ứng dụng dữ liệu vào công việc, cuộc sống_
 <br><br>
@@ -48,4 +48,41 @@ _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm
 29.	Lời khuyên cho người mới: Cách học Deep Learning không nản.
 30.	Tổng kết hành trình 30 ngày – Bạn đã "xóa mù" đến đâu?
 
+
+Here’s 30-day article on "Demystifying Deep Learning" :
+<br><br>
+**Week 1: Understanding What Deep Learning Is**<br>
+Why is Deep Learning so hot? – An introduction to DL and its real-world applications.
+Machine Learning vs. Deep Learning – Friends or rivals?
+Do Neural Networks mimic the human brain? – A beginner-friendly explanation.
+Perceptron – The building block of Neural Networks.
+Backpropagation – Learning by going backward to move forward.
+What are Tensors, and why are they essential in Deep Learning?
+Quick quiz: Do you really understand Deep Learning?<br><br>
+**Week 2: Building a Strong Foundation**<br>
+Gradient Descent – The secret behind optimizing models.
+Activation Functions – Why do neurons need to "turn on/off"?
+Loss Functions – Measuring errors in Deep Learning models.
+Batch Size, Epochs, Learning Rate – The powerful trio.
+Overfitting vs. Underfitting – A common trap for DL beginners.
+Regularization – Reducing overfitting with Dropout, L1, and L2.
+Optimizers – Adam, SGD, RMSprop: Which one is better?<br><br>
+**Week 3: Hands-on Deep Learning**<br>
+CNN – How does Deep Learning "see" images?
+RNN & LSTM – How does DL understand text and audio?
+Transformers – The intelligence behind ChatGPT.
+Step-by-step guide: Building your first Deep Learning model with Keras/TensorFlow.
+Data Augmentation – The trick to generating more training data.
+Beyond memory: How does Deep Learning truly understand? (Attention Mechanism).
+Lessons learned: Mistakes I made when learning Deep Learning.<br><br>
+**Week 4: Applications & Future of Deep Learning**<br>
+Deep Learning in finance and banking – Real-world use cases.
+DL in healthcare – Can AI diagnose diseases better than doctors?
+AI-generated art & music – When DL meets creativity.
+GPT & DALL-E – AI that writes and draws.
+The future of Deep Learning – Are there any limits?
+How to start a career in Deep Learning?
+Top 5 free resources to learn Deep Learning effectively.
+Advice for beginners: How to learn Deep Learning without getting overwhelmed.
+Wrapping up the 30-day journey – How much have you demystified DL?
 
