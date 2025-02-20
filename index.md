@@ -8,7 +8,7 @@ _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm
 
 **Tuần 1: Hiểu về Deep Learning là gì?**
 <br>
-1.	[Deep Learning có gì hot? – Giới thiệu tổng quan về DL, ứng dụng trong đời sống.](./another-page.html) <br>
+1.	[Deep Learning có gì hot? – Giới thiệu tổng quan về DL, ứng dụng trong đời sống.](./another-page.html) 
 2.	Machine Learning vs. Deep Learning – Anh em hay đối thủ?
 3.	Mạng Neural có phải bắt chước não người? – Giải thích trực quan về Neural Network.
 4.	Perceptron – Viên gạch đầu tiên của mạng neuron.
@@ -50,7 +50,7 @@ _Deep Learning là một phần kiến thức nền tảng quan trọng khi tìm
 
 <br><br>
 _Here’s 30-day article on "Demystifying Deep Learning" :_
-<br>
+<br><br>
 **Week 1: Understanding What Deep Learning Is**<br>
 1.	Why is Deep Learning so hot? – An introduction to DL and its real-world applications.
 2.	Machine Learning vs. Deep Learning – Friends or rivals?
@@ -60,6 +60,7 @@ _Here’s 30-day article on "Demystifying Deep Learning" :_
 6.	What are Tensors, and why are they essential in Deep Learning?
 7.	Quick quiz: Do you really understand Deep Learning?
 <br><br>
+
 **Week 2: Building a Strong Foundation**<br>
 8.	Gradient Descent – The secret behind optimizing models.
 9.	Activation Functions – Why do neurons need to "turn on/off"?
@@ -69,6 +70,7 @@ _Here’s 30-day article on "Demystifying Deep Learning" :_
 13.	Regularization – Reducing overfitting with Dropout, L1, and L2.
 14.	Optimizers – Adam, SGD, RMSprop: Which one is better?
 <br><br>
+
 **Week 3: Hands-on Deep Learning**<br>
 15.	CNN – How does Deep Learning "see" images?
 16.	RNN & LSTM – How does DL understand text and audio?
@@ -78,6 +80,7 @@ _Here’s 30-day article on "Demystifying Deep Learning" :_
 20.	Beyond memory: How does Deep Learning truly understand? (Attention Mechanism).
 21.	Lessons learned: Mistakes I made when learning Deep Learning.
 <br><br>
+
 **Week 4: Applications & Future of Deep Learning**<br>
 22.	Deep Learning in finance and banking – Real-world use cases.
 23.	DL in healthcare – Can AI diagnose diseases better than doctors?
