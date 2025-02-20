@@ -5,6 +5,7 @@ layout: default
 
 _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning” dành cho người mới:_
 </br>
+
 **Tuần 1: Hiểu về Deep Learning là gì?**
 1.	[Deep Learning có gì hot? – Giới thiệu tổng quan về DL, ứng dụng trong đời sống.](./another-page.html) </br>
 2.	Machine Learning vs. Deep Learning – Anh em hay đối thủ?
@@ -14,6 +15,7 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 6.	Tensor là gì? Tại sao lại quan trọng trong Deep Learning?
 7.	Bài test nhanh: Bạn hiểu đúng về Deep Learning chưa?
 </br>
+
 **Tuần 2: Xây nền móng vững chắc**
 8.	Gradient Descent – Bí mật đằng sau việc tối ưu mô hình.
 9.	Activation Function – Vì sao mạng neuron cần "bật/tắt"?
@@ -23,6 +25,7 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 13.	Regularization – Giảm overfitting bằng dropout, L1, L2.
 14.	Optimizers – Adam, SGD, RMSprop ai mạnh hơn?
 </br>
+
 **Tuần 3: Trải nghiệm thực tế với Deep Learning**
 15.	CNN – Deep Learning nhìn thấy gì trong ảnh?
 16.	RNN & LSTM – Làm sao DL có thể hiểu văn bản, âm thanh?
@@ -32,6 +35,7 @@ _Dưới đây là chuỗi bài viết 30 ngày về “Xóa mù Deep Learning�
 20.	Làm sao để DL không chỉ nhớ mà còn hiểu? (Attention Mechanism).
 21.	Chuyện nghề: Những sai lầm mình từng mắc khi học Deep Learning.
 </br>
+
 **Tuần 4: Ứng dụng & Xu hướng tương lai**
 22.	Ứng dụng Deep Learning trong ngành tài chính, ngân hàng.
 23.	Deep Learning trong Y tế – Chẩn đoán bệnh có chính xác hơn bác sĩ?
