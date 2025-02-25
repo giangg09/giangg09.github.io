@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -38,4 +38,74 @@
       </footer>
     </main>
   </body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Data Analyst</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background: #f4f4f4; }
+        header { background: #0077b6; color: white; padding: 20px; font-size: 24px; }
+        nav { background: #005f8a; padding: 10px; }
+        nav a { color: white; text-decoration: none; margin: 10px; font-size: 18px; }
+        section { padding: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        .project { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+        footer { background: #0077b6; color: white; padding: 10px; margin-top: 20px; }
+        .btn { display: inline-block; margin: 10px; padding: 10px 15px; background: #0077b6; color: white; text-decoration: none; border-radius: 5px; transition: 0.3s; }
+        .btn:hover { background: #005f8a; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name - Data Analyst</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Experienced Data Analyst with expertise in SQL, Python, Power BI, and Google Looker.</p>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Gold Price Analysis</h3>
+                <p>Using Spark to analyze XAU/USD trends.</p>
+                <a href="#" class="btn">View Project</a>
+            </div>
+            <div class="project">
+                <h3>Customer Segmentation</h3>
+                <p>Applied machine learning to classify customer behavior.</p>
+                <a href="#" class="btn">View Project</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <a href="mailto:your.email@example.com" class="btn">Email</a>
+            <a href="#" class="btn">LinkedIn</a>
+            <a href="#" class="btn">GitHub</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+</body>
 </html>
